@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on hi</title>
-    <link>http://localhost:1313/tags/about/</link>
+    <link>https://andrewluooo.github.io/tags/about/</link>
     <description>Recent content in about on hi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2020 20:18:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 29 Sep 2020 20:18:07 +0800</lastBuildDate><atom:link href="https://andrewluooo.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://andrewluooo.github.io/about/</link>
       <pubDate>Tue, 29 Sep 2020 20:18:07 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://andrewluooo.github.io/about/</guid>
       <description>Hello To record stories and thoughts.</description>
     </item>
     

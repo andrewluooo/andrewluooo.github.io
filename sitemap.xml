@@ -1,85 +1,85 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://andrewluooo.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://andrewluooo.github.io/about/</loc>
     <lastmod>2020-09-29T20:18:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>https://andrewluooo.github.io/tags/about/</loc>
     <lastmod>2020-09-29T20:18:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://andrewluooo.github.io/categories/</loc>
     <lastmod>2020-09-29T20:18:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://andrewluooo.github.io/</loc>
     <lastmod>2020-09-29T20:18:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/hugo/</loc>
+    <loc>https://andrewluooo.github.io/categories/hugo/</loc>
     <lastmod>2020-09-29T20:18:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://andrewluooo.github.io/tags/</loc>
     <lastmod>2020-09-29T20:18:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://andrewluooo.github.io/blog/</loc>
     <lastmod>2020-09-29T20:04:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/my-first-post/</loc>
+    <loc>https://andrewluooo.github.io/blog/my-first-post/</loc>
     <lastmod>2020-09-29T20:04:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E6%83%B3%E6%B3%95/</loc>
+    <loc>https://andrewluooo.github.io/tags/%E6%83%B3%E6%B3%95/</loc>
     <lastmod>2020-09-29T20:04:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/%E6%83%B3%E6%B3%95/</loc>
+    <loc>https://andrewluooo.github.io/categories/%E6%83%B3%E6%B3%95/</loc>
     <lastmod>2020-09-29T20:04:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E6%95%85%E4%BA%8B/</loc>
+    <loc>https://andrewluooo.github.io/tags/%E6%95%85%E4%BA%8B/</loc>
     <lastmod>2020-09-29T20:04:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/%E6%95%85%E4%BA%8B/</loc>
+    <loc>https://andrewluooo.github.io/categories/%E6%95%85%E4%BA%8B/</loc>
     <lastmod>2020-09-29T20:04:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
