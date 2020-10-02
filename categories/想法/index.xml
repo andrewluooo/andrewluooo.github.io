@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>想法 on hi</title>
+    <title>想法 on 承影</title>
     <link>https://andrewluooo.github.io/categories/%E6%83%B3%E6%B3%95/</link>
-    <description>Recent content in 想法 on hi</description>
+    <description>Recent content in 想法 on 承影</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en</language>
     <lastBuildDate>Tue, 29 Sep 2020 20:04:53 +0800</lastBuildDate><atom:link href="https://andrewluooo.github.io/categories/%E6%83%B3%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://andrewluooo.github.io/blog/my-first-post/</link>
+      <title>第一条博客</title>
+      <link>https://andrewluooo.github.io/post/my-first-post/</link>
       <pubDate>Tue, 29 Sep 2020 20:04:53 +0800</pubDate>
       
-      <guid>https://andrewluooo.github.io/blog/my-first-post/</guid>
-      <description>Hello 记录一些故事和想法</description>
+      <guid>https://andrewluooo.github.io/post/my-first-post/</guid>
+      <description>Hello 几经折腾，终于成功搭建了这个博客。以后会在这里记录一些故事和想法，还有关于互联网相关技术的踩坑和思考。</description>
     </item>
     
   </channel>

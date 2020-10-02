@@ -8,11 +8,20 @@
     <language>en</language>
     <lastBuildDate>Tue, 29 Sep 2020 20:18:07 +0800</lastBuildDate><atom:link href="https://andrewluooo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hugo</title>
-      <link>https://andrewluooo.github.io/categories/hugo/</link>
+      <title>about</title>
+      <link>https://andrewluooo.github.io/categories/about/</link>
       <pubDate>Tue, 29 Sep 2020 20:18:07 +0800</pubDate>
       
-      <guid>https://andrewluooo.github.io/categories/hugo/</guid>
+      <guid>https://andrewluooo.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>想法</title>
+      <link>https://andrewluooo.github.io/categories/%E6%83%B3%E6%B3%95/</link>
+      <pubDate>Tue, 29 Sep 2020 20:04:53 +0800</pubDate>
+      
+      <guid>https://andrewluooo.github.io/categories/%E6%83%B3%E6%B3%95/</guid>
       <description></description>
     </item>
     

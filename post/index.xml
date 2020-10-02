@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>故事 on 承影</title>
-    <link>https://andrewluooo.github.io/tags/%E6%95%85%E4%BA%8B/</link>
-    <description>Recent content in 故事 on 承影</description>
+    <title>Posts on 承影</title>
+    <link>https://andrewluooo.github.io/post/</link>
+    <description>Recent content in Posts on 承影</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2020 20:04:53 +0800</lastBuildDate><atom:link href="https://andrewluooo.github.io/tags/%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2020 20:04:53 +0800</lastBuildDate><atom:link href="https://andrewluooo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一条博客</title>
       <link>https://andrewluooo.github.io/post/my-first-post/</link>
